@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing MRI Anthropomorphic and Geometric Phantoms.<br>🔭 Fascinated about 3D printing technology<br>👯 I’m looking to collaborate on medical image processing<br>🌱 I’m currently learning Artificial Intelligence
+🔭 I’m currently working on developing **MRI Anthropomorphic and Geometric Phantoms.** <br>🔭 Fascinated about 3D printing technology<br>👯 I’m looking to collaborate on medical image processing<br>🌱 I’m currently learning Artificial Intelligence
 
 
 ## 🌐 Socials:
